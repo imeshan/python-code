@@ -1,0 +1,10 @@
+<root>
+    <items UeConfig="1">
+        <item name="platformName">Android</item>
+        <item name="platformVersion">8.0.0</item>
+        <item name="deviceName">Lenovo K8 Plus</item>
+        <item name="appiumserverip">127.0.0.1</item>
+        <item name="appiumserverport">4723</item>
+        <item name="Suite">VerifyMediaPlayer()</item>
+    </items>
+</root>

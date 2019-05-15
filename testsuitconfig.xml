@@ -1,0 +1,20 @@
+<root>
+    <item testsuit="VerifyYouTubeTabs">
+    <!--    <item name="testCase1">test_HomeTab</item> -->
+    <!--    <item name="testCase2">test_TrendingTab</item> -->
+            <item name="testCase3">test_SubscriptionTab</item>
+    <!--    <item name="testCase5">test_InboxTab</item> -->
+   <!-- </item>
+    <item testsuit="VerifyMediaPlayer">
+        <item name="testCase1">test_pause</item>
+        <item name="testCase2">test_nextvideoplayback</item>
+    </item>
+
+        <item testsuit="PlayerFunction">
+        <item name="testCase1">test_function</item> -->
+    </item>
+
+    <item testsuit="Login">
+        <item name="testCase1">test_login</item>
+    </item>
+</root>
